@@ -1,0 +1,25 @@
+.firstcontainer{
+    margin-top: 150px;
+    margin-bottom: 30px;
+}
+@media(max-width:768px){
+   .firstcontainer .title{
+    font-size: 30px;
+    margin-bottom: 10px;
+} 
+}
+span{
+    font-weight: bold;
+    font-size: 1.7rem;
+}
+.section-title{
+    font-weight: 700 !important;
+    font-size: 2rem !important;
+    margin-bottom: 15px !important;
+    margin-top: 40px !important;
+    padding: 0;
+}
+p{
+    font-size: 1.6rem !important;
+}
+
