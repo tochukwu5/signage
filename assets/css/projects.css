@@ -1,0 +1,17 @@
+#header{
+    background-color: rgb(14, 29, 43);
+}
+.image-container{
+    margin-top: 70px;
+}
+.section-title .p-g{
+    font-size: 1.8rem;
+    text-align: center;
+    color: rgb(99, 96, 96);
+}
+.section-title .p-g-s{
+    font-size: 0.8rem;
+    text-align: center;
+    font-weight: normal;
+    margin-top: 20px;
+}
